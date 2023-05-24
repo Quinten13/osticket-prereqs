@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Next install PHP manager for IIS
 - Then install the rewrite module
 - After that download a PHP 7.3.8 zip file 
-- Then install VC redist file
+- Then install a VC redist file
 - Lastly install the MYSQL to set up information 
 
 <h2>Installation Steps</h2>
