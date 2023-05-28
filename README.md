@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install and enable IIS in windows
+- Install and enable IIS in windows with CGI
 - Next install PHP manager for IIS
 - Then install the rewrite module
 - After that download a PHP 7.3.8 zip file 
