@@ -48,10 +48,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src=""
+<img src="https://i.imgur.com/qGpiskg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  
+Hello There
 </p>  
 <br/>
 
