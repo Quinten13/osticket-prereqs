@@ -64,19 +64,22 @@ Hello There
 </p>
 <br/>
 
-      <p>
-        <img src="https://i.imgur.com/Rn0hZ5K.png" height="80%" width="80%" alt="Disk Santization Steps"/> 
-      </p> 
  <p>
+  <img src="https://i.imgur.com/Rn0hZ5K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ </p> 
+ 
+ <p>
+  What's up!
  </p> 
  
  <br/>
  
-       <p>
-         <img src=""
-       </p>
    <p>
-  
+  <img src="https://i.imgur.com/mOjAbpq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   </p> 
+        
+   <p>
+  Yooo what's up dude!?
   </p>
   <br/>
   
