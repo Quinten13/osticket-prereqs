@@ -55,3 +55,52 @@ Hello There
 </p>  
 <br/>
 
+<p>
+<img src="https://i.imgur.com/WojcCc9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> 
+
+<p>
+  Hey There
+</p>
+<br/>
+
+      <p>
+        <img src="https://i.imgur.com/Rn0hZ5K.png" height="80%" width="80%" alt="Disk Santization Steps"/> 
+      </p> 
+ <p>
+ </p> 
+ 
+ <br/>
+ 
+       <p>
+         <img src=""
+       </p>
+   <p>
+  
+  </p>
+  <br/>
+  
+  
+  
+  
+  
+  
+  
+ 
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
